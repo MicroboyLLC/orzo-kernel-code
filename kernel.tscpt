@@ -1,0 +1,6 @@
+package com.pear.kernel
+
+functiom init() {
+  setToffeeFlag("canAccessPC?", true);
+toggleProgramRights("canAccessPC?", true);
+}

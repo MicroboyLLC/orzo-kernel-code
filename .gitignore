@@ -1,0 +1,8 @@
+# Toffee assembly code
+*.toffs
+# Toffee compiler
+*.toffc
+# Toffee library bytecode
+*.toffm
+# ToffeeScript code
+*.tscpt

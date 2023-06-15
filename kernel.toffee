@@ -1,0 +1,9 @@
+@ Orzo kernel
+@ This is the kernel that is used in many Pear OSes.
+
+public class Kernel {
+  startIOManagementOnPC();
+  startMemoryManagementOnPC();
+  startNetworkingOnPC();
+  protectFromOtherProgram();
+}

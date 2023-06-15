@@ -1,7 +1,10 @@
 @ Orzo kernel
 @ This is the kernel that is used in many Pear OSes.
 
+import com.pear.kernel
+
 public class Kernel {
+  kernel.init();
   startIOManagementOnPC();
   startMemoryManagementOnPC();
   startNetworkingOnPC();
